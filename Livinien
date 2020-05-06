@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>USAlife</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+
+    <body>
+
+        <header>
+        
+            <nav>
+              <ul>
+                <li class="deroulant"><a href="#">Accueil</a>
+                  <ul class="sous">
+                  </ul>
+                </li>
+                <li class="deroulant"><a href="">Voyages</a>
+                  <ul class="sous">
+                    <li><a href="New-York.html">New-York</a></li>
+                    <li><a href="Visite de la Statue de la liberté.html">Visite de la Statue de la Liberté</a></li>
+                    <li><a href="Boston.html">Boston</a></li>
+                    <li><a href="Washington%20DC.html">Washington DC</a></li>
+                    <li><a href="Philadelphie.html">Philadelphie</a></li>
+                    <li><a href="Mexico%20City.html">Mexico City</a></li>
+                    <li><a href="Cuba.html">Cuba<br>-<br>La Havane</a></li>
+                    <li><a href="Toronto.html">Toronto</a></li>
+                    <li><a href="Miami.html">Miami</a></li>
+                    <li><a href="Bahamas.html">Bahamas</a></li>
+                    <li><a href="Los%20Angeles.html">Los Angeles</a></li>
+                    <li><a href="San%20Francisco.html">San Francisco</a></li>
+                    <li><a href="Las%20Vegas.html">Las Vegas</a></li>
+                  </ul> 
+                </li>
+                <li class="deroulant"><a href="">Conseils pour Voyager</a>
+                  <ul class="sous">
+                    <li><a href="">Logements</a></li>
+                    <li><a href="">Transports</a></li>
+                    <li><a href="">Se Nourrir</a></li>
+                    <li><a href="">Applications</a></li>
+                    <li><a href="">Argent</a></li>
+                  </ul>
+                </li>
+                <li><a href="">Vidéos</a></li>
+                <li><a href="">A propos</a></li>
+                <li><a href="">Contact</a></li>
+                </ul>
+            </nav>
+                
+        </header>
+
+      
+          <section id="Presentation">
+                
+                
+          
+                 <h1>Bienvenue sur la page officiel de USAlife !</h1>
+            
+                              <!--Logo de USAlife-->
+            
+            
+                 <h4>Hello tout le monde ! Je m'appelle Flavien. J'adore les voyages !</h4>
+                   
+                   
+                 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ce blog est conçu pour aider toutes personnes voulant voyager aux Etats-Unis,<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ainsi qu'à l'extérieur du territoire américain.
+            
+                 <p>A travers ce blog vous découvrirez les voyages que j'ai effectué. Vous pourrez trouver tous les conseils qu'un voyageurs <br>&emsp;&emsp;&emsp;a besoin pour préparer son voyage aux USA, ainsi que des vidéos de mes voyages et pleins d'autres choses... </p>
+            
+            
+          </section>   
+
+
+    </body>
+  
+</html>
