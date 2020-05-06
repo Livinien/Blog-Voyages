@@ -1,0 +1,487 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Heebo:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+
+
+body {
+    
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+
+
+
+header {
+    
+    text-align: center;
+    background-image: url(Images/Sans%20titre-1.png);
+    background-size: cover;
+    height: 780px;
+    margin-top: 80px;
+    
+}
+
+
+
+header nav {
+    
+    position: relative;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    bottom: 80px;
+    
+}
+
+
+
+
+
+
+
+
+nav ul {
+    
+    position: relative;
+    list-style-type: none;
+    
+}
+
+
+
+
+nav ul li {
+    
+    position: relative;
+    display: inline-block;
+    padding: 10px 10px 10px 80px;
+    
+}
+
+
+
+
+nav a {
+    
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 10px 10px;
+    margin-right: 10px;
+    transition: all 0.5s ease-in 0s;
+}
+
+
+
+
+nav a:hover {
+    
+    
+   
+    
+}
+
+
+
+.sous {
+    
+    position: absolute;
+    display: none;
+    box-shadow: 2px 1px 12px #ccc;
+    background-color: white;
+    width: 100%;
+    margin-left: -70px;
+    
+}
+
+
+
+
+
+nav > ul li:hover .sous {
+    
+    position: absolute;
+    display: block;
+    
+}
+
+
+
+
+.sous li {
+    
+    float: none;
+    width: 100%;
+    text-align: center;
+    margin-left: -100px;
+    
+}
+
+
+
+.sous a {
+    
+    padding: 10px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    
+    
+}
+
+
+
+.sous a:hover {
+    
+    background-color: #808080;
+    color: white;
+    
+}
+
+
+
+
+.deroulant > a::after {
+
+    font-size: 12px;
+    
+    
+}   
+
+
+
+
+.conteneur {
+    
+  margin: 50px 20px;
+  height: 1500px;
+  
+    
+    
+}
+
+    
+
+h1 {
+  
+  position: relative;
+  margin-left: 520px;
+  padding: 20px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 35px;
+  
+}
+    
+
+h4 {
+  
+  position: relative;
+  margin-left: 530px;
+  
+}
+
+
+
+p {
+  
+  position: relative;
+  margin-left: 300px;
+  
+}
+
+
+
+
+
+
+
+/*------------------------------------------------------*/
+
+
+
+
+
+
+
+
+/* NEW-YORK */
+
+
+#New-York {
+  
+  background-image: url(Images/)  
+  
+}
+
+
+
+#New-York #NYC h1 {
+  
+  position: relative;
+  left: 140px;      
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+
+
+/* VISITE DE LA STATUE DE LA LIBERTE */
+
+
+
+#SOL {
+  
+  background-image: url(Images/)  
+  
+}
+
+
+
+#SOL #Statue h1 {
+  
+  position: relative;
+  left: -60px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+
+
+/* BOSTON */
+
+
+#Boston {
+  
+  background-image: url(Images/);
+  
+}
+
+
+
+
+#Boston #Bos h1 {
+  
+  position: relative;
+  left: 140px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+
+/* WASHINGTON DC */
+
+
+#Washington {
+  
+  background-image: url(Images/);
+  
+}
+
+
+
+#Washington #Washing h1 {
+  
+  position: relative;
+  left: 80px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+/* PHILADELPHIE */
+
+
+#Philadelphie {
+  
+  background-image: url(Images/);
+
+  
+}
+
+
+#Philadelphie #Phila h1 {
+  
+  position: relative;
+  left: 80px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+/* MEXICO CITY */
+
+
+#Mexico {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Mexico #MC h1 {
+  
+  position: relative;
+  left: 90px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+/* CUBA */
+
+
+#Cuba {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Cuba #La_Havane h1 {
+  
+  position: relative;
+  left: 80px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+/* TORONTO */
+
+
+#Toronto {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Toronto #Toron h1 {
+  
+  position: relative;
+  left: 80px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+/* MIAMI */
+
+
+#Miami {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Miami #Miam h1 {
+  
+  position: relative;
+  left: 140px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+/* BAHAMAS */
+
+#Bahamas {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Bahamas #Baham h1 {
+  
+  position: relative;
+  left: 140px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+/* LOS ANGELES */
+
+#Los_Angeles {
+  
+  background-image: url(Images/);
+  
+}
+
+
+
+
+/* SAN FRANCISCO */
+
+#San_Francisco {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#San_Francisco #SF h1 {
+  
+  position: relative;
+  left: 80px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+/* LAS VEGAS */
+
+#Las_Vegas {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Las_Vegas #Las_V h1 {
+  
+  position: relative;
+  left: 100px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
