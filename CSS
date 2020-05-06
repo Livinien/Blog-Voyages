@@ -203,7 +203,7 @@ p {
 
 
 
-
+/* VOYAGES */
 
 
 
@@ -481,6 +481,248 @@ p {
   left: 100px;   
   font-size: 60px;
   bottom: 30px;
+  
+}
+
+
+
+
+
+
+
+/*------------------------------------------------------*/
+
+
+
+/* CONSEILS POUR VOYAGER */
+
+
+
+
+/* LOGEMENTS */
+
+
+
+#Logements  {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Logements #Log h1 {
+  
+  position: relative;
+  left: 100px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+
+/* TRANSPORTS */
+
+
+
+#Transports  {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Transports #Trans h1 {
+  
+  position: relative;
+  left: 100px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+
+/* SE NOURRIR */
+
+
+#Se_Nourrir  {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Se_Nourrir #Nourrir h1 {
+  
+  position: relative;
+  left: 100px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+
+
+/* APPLICATIONS */
+
+#Applications {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Applications #Applis h1 {
+  
+  position: relative;
+  left: 100px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+
+/* ARGENTS */
+
+
+
+#Argents  {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Argents #Arg h1 {
+  
+  position: relative;
+  left: 120px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+
+
+
+
+/*------------------------------------------------------*/
+
+
+
+/* VIDEOS */
+
+
+
+#Videos  {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Videos #Vid h1 {
+  
+  position: relative;
+  left: 120px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+/*------------------------------------------------------*/
+
+
+
+/* A PROPOS */
+
+
+
+
+#A_Propos {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#A_Propos #Propos h1 {
+  
+  position: relative;
+  left: 120px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+
+
+
+/*------------------------------------------------------*/
+
+
+
+/* CONTACT */
+
+
+
+#Contact  {
+  
+  background-image: url(Images/);
+  
+}
+
+
+#Contact #Cont h1 {
+  
+  position: relative;
+  left: 120px;   
+  font-size: 60px;
+  bottom: 30px;
+  
+}
+
+
+
+
+
+
+
+
+
+/* FOOTER */
+
+
+footer {
+  
+  text-align: center;
+  
   
 }
 
